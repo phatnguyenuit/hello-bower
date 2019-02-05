@@ -1,0 +1,8 @@
+{
+  "name": "hello-bower",
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "popper.js": "^1.14.7",
+    "jquery": "^3.3.1"
+  }
+}
